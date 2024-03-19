@@ -1,0 +1,47 @@
+div img{
+    height: 600px;
+    width: 1200px;
+    margin: 30px 30px 30px 30px;
+    border-radius: 60px;
+}
+
+.name{
+    margin-left: 30px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.description{
+    margin-left: 30px;
+    width: 1000px;
+    font-size: larger;
+}
+
+.prep{
+    margin-left: 30px;
+    color: brown;
+}
+
+.Time{
+    font-size: larger;
+    line-height: 33px;
+    margin-left: 50px;
+}
+
+.intructs{
+    margin-left: 30px;
+    width: 1000px;
+    font-size: larger;
+    line-height: 30px;
+}
+
+.nutrit{
+    width: 1000px;
+    font-size: larger;
+    margin-left: 30px;
+}
+.table{
+    margin-left: 50px;
+    line-height: 30px;
+    text-align: center;
+}
